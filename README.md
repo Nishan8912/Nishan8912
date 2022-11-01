@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nishan8912
 - 👀 I’m interested in python coding, ML, DL, Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate amazing Data Science projects
+- 💞️ I’m looking to collaborate in some amazing Data Science projects
 - 📫 Email: nishanraee10@gmail.com
 
 <!---
