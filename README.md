@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishan8912
+- 👋 Hi, I’m @Nishan Rai
 - 👀 I’m interested in python coding, ML, DL, Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate in some amazing Data Science projects
